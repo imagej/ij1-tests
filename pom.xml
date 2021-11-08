@@ -74,7 +74,7 @@
 	</mailingLists>
 
 	<scm>
-		<connection>scm:git:git://github.com/imagej/ij1-tests</connection>
+		<connection>scm:git:https://github.com/imagej/ij1-tests</connection>
 		<developerConnection>scm:git:git@github.com:imagej/ij1-tests</developerConnection>
 		<tag>HEAD</tag>
 		<url>https://github.com/imagej/ij1-tests</url>
