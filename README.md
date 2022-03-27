@@ -1,2 +1,1 @@
-[![](https://github.com/imagej/ij1-tests/actions/workflows/build-main.yml/badge.svg)](https://github.com/imagej/ij1-tests/actions/workflows/build-main.yml)
-
+***THIS PROJECT IS OBSOLETE. PLEASE SEE https://github.com/imagej/ImageJ***
